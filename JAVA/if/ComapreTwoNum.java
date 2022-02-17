@@ -3,9 +3,10 @@ import java.util.Scanner;
 public class ComapreTwoNum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int A, B;
-        A = scanner.nextInt();
-        B = scanner.nextInt();
+        
+        int A = scanner.nextInt();
+        int B = scanner.nextInt();
+        scanner.close();
 
         if (A < B) {
             System.out.println("<");
@@ -14,6 +15,5 @@ public class ComapreTwoNum {
         } else {
             System.out.println("==");
         }
-        scanner.close();
     }
 }

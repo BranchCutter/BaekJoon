@@ -4,3 +4,6 @@ Dog.java -> https://www.acmicpc.net/problem/10172
 Divide.java -> https://www.acmicpc.net/problem/1008
 JoinMembership.java -> https://www.acmicpc.net/problem/10926
 Calculation.java -> https://www.acmicpc.net/problem/10869
+BuddhistYear.java -> https://www.acmicpc.net/problem/18108
+Rest.java -> https://www.acmicpc.net/problem/10430
+MultiplicationTutorial.java -> https://www.acmicpc.net/problem/2588
