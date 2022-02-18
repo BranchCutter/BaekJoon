@@ -1,5 +1,4 @@
 # BaekJoon
----
 BaekJoon Algorithm DB
 
 ### JAVA
