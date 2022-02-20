@@ -15,6 +15,6 @@ public class FastSum{
 	    st = new StringTokenizer(br.readLine());
 	    bw.write((Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken())) + "\n");
 	}
-	bw.close();
+	bw.flush();
     }
 }
