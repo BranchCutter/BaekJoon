@@ -16,8 +16,8 @@ public class PreciseCaseNum{
 	    st = new StringTokenizer(br.readLine());
 	    arr[0] = st.nextToken();
 	    arr[1] = st.nextToken();
-	    bw.write("Case #"+i+": "+arr[0]+" + "+arr[1]);
-	    bw.write(" = "+(Integer.parseInt(arr[0])+Integer.parseInt(arr[1]))+"\n");
+	    bw.write("Case #" + i + ": " + arr[0] + " + "+arr[1]);
+	    bw.write(" = " + (Integer.parseInt(arr[0]) + Integer.parseInt(arr[1])) + "\n");
 	}
 	bw.flush();
 	bw.close();
