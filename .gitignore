@@ -1,0 +1,5 @@
+# ignore IntelliJ IDEA auto generated #
+.idea
+*.iws
+*.iml
+*.ipr
