@@ -9,15 +9,15 @@ public class FindAlphabet{
 		String S = br.readLine();
 		char placeValue;
 		int index;
-		for(int i = 0; i < S.length; i++){ arr[i] = -1; }
+		for(int i = 0; i < 26; i++){ arr[i] = -1; }
 
-		for(int i = 0; i < S.length; i++){
+		for(int i = 0; i < S.length(); i++){
 			placeValue = S.charAt(i);
-			index = (int)placeValue - 96;
+			index = (int)placeValue - 97;
 			if(arr[index] != -1) continue;
 			arr[index] = i;
 		}
 
-		for(int value : arr) { System.out.printf("%d",value); }
+		for(int value : arr) { System.out.printf("%d ",value); }
 	}
 }
