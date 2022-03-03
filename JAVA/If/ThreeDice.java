@@ -1,3 +1,5 @@
+package JAVA.If;
+
 import java.util.Scanner;
 
 public class ThreeDice{

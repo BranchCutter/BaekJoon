@@ -1,3 +1,5 @@
+package JAVA.InOutput;
+
 //Examples on below. Print those examples. (BAEKJOON 10171)
 // \    /\
 //  )  ( ')

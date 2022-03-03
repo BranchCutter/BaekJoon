@@ -1,3 +1,5 @@
+package JAVA.InOutput;
+
 // Question : Joonha wants to join the membership
 // but he was surprised to see ID [joonas] already exist.
 // Joona express his shock with ??!.

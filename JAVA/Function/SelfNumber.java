@@ -1,3 +1,5 @@
+package JAVA.Function;
+
 public class SelfNumber{
 	public static void main(String[] args){
 		boolean[] check = new boolean[10001];
