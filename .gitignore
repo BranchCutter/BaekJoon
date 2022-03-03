@@ -3,4 +3,6 @@
 *.iws
 *.iml
 *.ipr
+
+# ignore file which Mac OS automatically generated #
 .DS_Store
