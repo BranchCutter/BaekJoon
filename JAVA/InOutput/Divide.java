@@ -1,3 +1,5 @@
+package JAVA.InOutput;
+
 // Question : Take the two integers A and B
 //            and write a program that outputs A/B. (BAEKJOON 1008)
 // Input : A and B are given in the first line. (0 < A, B < 10)

@@ -1,3 +1,5 @@
+package JAVA.Function;
+
 class Test{
     long sum(int[] a) {
 	long ans = 0;

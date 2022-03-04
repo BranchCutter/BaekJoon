@@ -1,3 +1,5 @@
+package JAVA.InOutput;
+
 import java.util.Scanner;
 
 public class BuddhistYear {

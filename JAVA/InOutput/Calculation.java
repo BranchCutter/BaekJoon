@@ -1,3 +1,5 @@
+package JAVA.InOutput;
+
 // Question : Two natural numbers A and B are given.
 // Write a program that outputs A+B, A-B, A*B, A/B, and A%B. (BAEKJOON 10869)
 // Input : Two natural numbers A and B are given. (1 ≤ A, B ≤ 10,000)

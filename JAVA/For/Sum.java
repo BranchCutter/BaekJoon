@@ -1,3 +1,5 @@
+package JAVA.For;
+
 import java.util.Scanner;
 
 public class Sum{
