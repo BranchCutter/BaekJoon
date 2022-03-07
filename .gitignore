@@ -6,3 +6,6 @@
 
 # ignore file which Mac OS automatically generated #
 .DS_Store
+
+# ignore file .class which VSCode automatically generated #
+.class
