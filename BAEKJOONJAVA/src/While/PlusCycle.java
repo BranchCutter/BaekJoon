@@ -1,4 +1,4 @@
-package JAVA.While;
+package While;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

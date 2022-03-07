@@ -1,4 +1,4 @@
-package JAVA.String;
+package String;
 
 import java.io.IOException;
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package JAVA.InOutput;
+package InOutput;
 
 // Question : Take the two integers A and B
 //            and write a program that outputs A/B. (BAEKJOON 1008)

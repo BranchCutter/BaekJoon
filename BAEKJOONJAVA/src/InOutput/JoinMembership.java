@@ -1,4 +1,4 @@
-package JAVA.InOutput;
+package InOutput;
 
 // Question : Joonha wants to join the membership
 // but he was surprised to see ID [joonas] already exist.

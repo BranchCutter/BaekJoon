@@ -1,4 +1,4 @@
-package JAVA.Array.OneDimensional;
+package Array.OneDimensional;
 
 import java.io.BufferedReader;
 import java.io.IOException;

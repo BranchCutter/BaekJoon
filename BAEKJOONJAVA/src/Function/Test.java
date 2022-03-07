@@ -1,4 +1,4 @@
-package JAVA.Function;
+package Function;
 
 class Test{
     long sum(int[] a) {

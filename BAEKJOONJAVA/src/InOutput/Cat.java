@@ -1,4 +1,4 @@
-package JAVA.InOutput;
+package InOutput;
 
 //Examples on below. Print those examples. (BAEKJOON 10171)
 // \    /\

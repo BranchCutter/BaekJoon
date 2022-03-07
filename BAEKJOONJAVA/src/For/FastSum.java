@@ -1,4 +1,4 @@
-package JAVA.For;
+package For;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

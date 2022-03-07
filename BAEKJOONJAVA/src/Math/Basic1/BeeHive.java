@@ -1,4 +1,4 @@
-package JAVA.Math.Basic1;
+package Math.Basic1;
 
 import java.io.IOException;
 import java.io.BufferedReader;

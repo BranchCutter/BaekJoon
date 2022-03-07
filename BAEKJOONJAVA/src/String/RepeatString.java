@@ -1,4 +1,4 @@
-package JAVA.String;
+package String;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

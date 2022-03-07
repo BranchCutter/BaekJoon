@@ -1,4 +1,4 @@
-package JAVA.InOutput;
+package InOutput;
 
 // Question : Two natural numbers A and B are given.
 // Write a program that outputs A+B, A-B, A*B, A/B, and A%B. (BAEKJOON 10869)
