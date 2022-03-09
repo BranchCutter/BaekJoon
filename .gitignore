@@ -7,5 +7,7 @@
 # ignore file which Mac OS automatically generated #
 .DS_Store
 
-# ignore file .class which VSCode automatically generated #
+# ignore file which VisualStudioCode automatically generated #
 .class
+bin/
+.vscode/
