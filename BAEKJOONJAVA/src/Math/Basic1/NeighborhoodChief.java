@@ -31,7 +31,14 @@ public class NeighborhoodChief{
             APT[i][1] = 1;
             APT[0][i] = i;
 
-            for(int j = 2; j < 15; j++) { APT[i][j] = APT[i][j-1] + APT[i - 1][j]; }
+        }
+
+        for (int i = 1; i < 15; i++) {
+
+            for(int j = 2; j < 15; j++) {
+                APT[i][j] = APT[i][j-1] + APT[i - 1][j];
+            }
+            
         }
     }
 }
