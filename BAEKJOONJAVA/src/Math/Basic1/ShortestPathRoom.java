@@ -1,35 +1,29 @@
 package Math.Basic1;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
 public class ShortestPathRoom {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringBuilder sb = new StringBuilder();
+       
         int testCase = Integer.parseInt(br.readLine());
-        int[] arr = {0,0};
 
         for(int i = 0 ; i < testCase ; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine()," ");
-            int A = Integer.parseInt(st.nextToken());
-            int B = Integer.parseInt(st.nextToken());
-            int C = Integer.parseInt(st.nextToken());
 
-            for(int j = 0; j < C; j++) {
-                
-                if(arr[0] < A) {
-                    arr[1]++;
-                }
+            int H = Integer.parseInt(st.nextToken());
+            st.nextToken();
+            int N = Integer.parseInt(st.nextToken());
 
-                else if(arr[1] == A) {
-                }
-            }
+            if (N % H == 0) sb.append((H * 100) + (N / H)).append('\n');
+
+            else sb.append(((N % H) * 100) + ((N / H) + 1)).append('\n');
+
         }
-        
+        System.out.print(sb);
     }
 }
